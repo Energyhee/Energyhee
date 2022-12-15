@@ -19,7 +19,7 @@
   <span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/File%20Zilla-BF0000?style=flat-square&logo=filezilla&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/></span>
+  <!-- <span><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></span> -->
+  <!-- <span><img src="https://img.shields.io/badge/File%20Zilla-BF0000?style=flat-square&logo=filezilla&logoColor=white"/></span> -->
+  <!-- <span><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></span> -->
+  <!-- <span><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/></span> -->
