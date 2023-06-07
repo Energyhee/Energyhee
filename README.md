@@ -7,7 +7,7 @@
   <span><img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></span>
   <span><img src="https://img.shields.io/badge/Type%20Script-3178C6?style=flat-square&logo=typescript&logoColor=white"/></span>
-  <!-- <span><img src="https://img.shields.io/badge/j%20Query-0769AD?style=flat-square&logo=jquery&logoColor=white"/></span> -->
+  <span><img src="https://img.shields.io/badge/j%20Query-0769AD?style=flat-square&logo=jquery&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Angular%20JS-E23237?style=flat-square&logo=angularjs&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=61DAFB&fontColor=61DAFB"/></span>
   
