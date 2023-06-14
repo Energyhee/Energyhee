@@ -21,7 +21,8 @@
   <!-- <span><img src="https://img.shields.io/badge/File%20Zilla-BF0000?style=flat-square&logo=filezilla&logoColor=white"/></span> -->
   <!-- <span><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></span> -->
   <!-- <span><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/></span> -->
-```
+  
+```javascript
 function test() {
   console.log("notice the blank line before this function?");
 }
