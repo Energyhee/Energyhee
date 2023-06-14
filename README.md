@@ -1,4 +1,9 @@
-
+```javascript
+const myProfile = {
+  name : 'Han Chang Hee',
+  age : '31(1992.02.10)',
+}
+```
 
 
   <span><img src="https://img.shields.io/badge/W3C-005A9C?style=flat-square&logo=w3c&logoColor=white"/></span>
