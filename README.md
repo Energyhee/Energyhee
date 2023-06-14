@@ -1,8 +1,5 @@
 ```javascript
-const myProfile = {
-  name : 'Han Chang Hee',
-  age : '31(1992.02.10)',
-}
+
 ```
 
 
