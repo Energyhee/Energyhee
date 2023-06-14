@@ -23,7 +23,12 @@
   <!-- <span><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/></span> -->
   
 ```javascript
-function test() {
-  console.log("notice the blank line before this function?");
+const languagesAndTool = {
+    '<span><img src="https://img.shields.io/badge/W3C-005A9C?style=flat-square&logo=w3c&logoColor=white"/></span>',
+    '<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></span>',
+    '<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></span>',
+    '<span><img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white"/></span>',
+    '<span><img src="https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></span>',
+    '<span><img src="https://img.shields.io/badge/j%20Query-0769AD?style=flat-square&logo=jquery&logoColor=white"/></span>'
 }
 ```
