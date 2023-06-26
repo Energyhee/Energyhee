@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!&fontColor=ffffff&fontAlign=80&fontAlignY=40&color=gradient&animation=fadeIn) 
-<center>***STACK***</center>
+
+### <center>***STACK***</center>
 
 <center>
   <span><img src="https://img.shields.io/badge/W3C-005A9C?style=flat-square&logo=w3c&logoColor=white"/></span>
