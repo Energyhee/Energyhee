@@ -12,6 +12,8 @@
   <span><img src="https://img.shields.io/badge/Angular%20JS-E23237?style=flat-square&logo=angularjs&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=61DAFB&fontColor=61DAFB"/></span>
   -->
+</p>  
+<p align="center">
   <span><img src="https://img.shields.io/badge/MarkDown-000000?style=flat-square&logo=markdown&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></span>
