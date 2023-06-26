@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!&fontColor=ffffff&fontAlign=80&fontAlignY=40&color=gradient&animation=fadeIn)
+
+
+
 ### <p align="center">***STACK***</p>
 <p align="center">
   <span><img src="https://img.shields.io/badge/W3C-005A9C?style=flat-square&logo=w3c&logoColor=white"/></span>
@@ -25,7 +28,4 @@
 </p>
 
 
-
-
-
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=wave)
