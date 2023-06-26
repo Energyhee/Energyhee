@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Hello!&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
 STACK
 
   <span><img src="https://img.shields.io/badge/W3C-005A9C?style=flat-square&logo=w3c&logoColor=white"/></span>
